@@ -27,7 +27,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNnRtdXBzcTlobDM4aTZ2ZHhmaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenneth-lekeanyi&label=Profile%20views&color=0e75b6&style=flat" alt="kenneth-lekeanyi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenneth-lekeanyi&label=Profile%738views&color=0e75b6&style=flat" alt="kenneth-lekeanyi" /> </p>
 
 - 🔭 I’m currently working on **GCP and AWS Jenkins-Docker-ArgoCD-Kubernetes-cicd-Pipeline-register-app-Project** Check it out [here](https://github.com/Kenneth-lekeanyi/register-app-argoCD) 
 
