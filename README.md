@@ -29,9 +29,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenneth-lekeanyi&label=Profile%20views&color=0e75b6&style=flat" alt="kenneth-lekeanyi" /> </p>
 
-- 🔭 I’m currently working on **GCP and AWS Jenkins-Docker-ArgoCD-Kubernetes-cicd-Pipeline-Project**
+- 🔭 I’m currently working on **GCP and AWS Jenkins-Docker-ArgoCD-Kubernetes-cicd-Pipeline-register-app-Project** `https://github.com/Kenneth-lekeanyi/register-app-argoCD`
 
 - 🌱 I’m currently growing my expertise on **OpenShift and GitHub Action**
+  
+- 🌱 I recently built an automated **Terraform Jenkins-cicd-Pipeline** to deploy infrastructure in a GCP Environment. `https://github.com/Kenneth-lekeanyi/terraform-jenkins-cicd-pipeline-project`
 
 - 👯 I’m looking to collaborate on **GitHub**
 
@@ -41,7 +43,7 @@
 
 - 💬 Ask me about **AWS, GCP, Infra and DevOps**
 
-- 📫 You can reach me at **klekeanyi84@gmail.com**
+- 📫 How to reach me **klekeanyi84@gmail.com**
 
 <p align="left">
 </p>
