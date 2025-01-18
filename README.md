@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently growing my expertise on **OpenShift and GitHub Action**
   
-- 🌱 I recently built an automated **Terraform Jenkins-cicd-Pipeline** to deploy infrastructure in a GCP Environment. Check it out [here](`https://github.com/Kenneth-lekeanyi/terraform-jenkins-cicd-pipeline-project`) 
+- 🌱 I recently built an automated **Terraform Jenkins-cicd-Pipeline** to deploy infrastructure in a GCP Environment. Check it out [here](`https://github.com/Kenneth-lekeanyi/terraform-jenkins-cicd-pipeline-project`),  
 
 - 👯 I’m looking to collaborate on **GitHub**
 
