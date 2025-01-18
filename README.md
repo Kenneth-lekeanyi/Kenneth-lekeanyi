@@ -29,7 +29,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenneth-lekeanyi&label=Profile%20views&color=0e75b6&style=flat" alt="kenneth-lekeanyi" /> </p>
 
-- 🔭 I’m currently working on **GCP and AWS Jenkins-Docker-ArgoCD-Kubernetes-cicd-Pipeline-register-app-Project** Check it out [here](`https://github.com/Kenneth-lekeanyi/register-app-argoCD`) 
+- 🔭 I’m currently working on **GCP and AWS Jenkins-Docker-ArgoCD-Kubernetes-cicd-Pipeline-register-app-Project** Check it out (here)`https://github.com/Kenneth-lekeanyi/register-app-argoCD`  
 
 - 🌱 I’m currently growing my expertise on **OpenShift and GitHub Action**
   
