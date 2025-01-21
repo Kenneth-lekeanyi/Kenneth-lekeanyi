@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/awanmbandi-github-profile-display.gif)](https://awanmbandi.io)
+![Image](https://github.com/user-attachments/assets/67d5a305-0e71-4831-a30e-c18006a27fe8)
 <h1 align="center">Hi 😃, I'm Kenneth Leke</h1>
 <h3 align="center">A Passionate Multi-Cloud Infrastructure and DevOps Engineer</h3>
 
