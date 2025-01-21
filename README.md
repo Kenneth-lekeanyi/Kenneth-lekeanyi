@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/67d5a305-0e71-4831-a30e-c18006a27fe8)
+![Image](https://github.com/user-attachments/assets/784cc3a4-3933-4bdb-9721-7dfe724b3e0b)
 <h1 align="center">Hi 😃, I'm Kenneth Leke</h1>
 <h3 align="center">A Passionate Multi-Cloud Infrastructure and DevOps Engineer</h3>
 
