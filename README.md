@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/11541c50-9231-4c58-8fbc-328a3ec45379)
+https://media.licdn.com/dms/image/v2/D5622AQHXyUSez6fqcQ/feedshare-shrink_800/B56ZWd8SeKGsAg-/0/1742111588494?e=1745452800&v=beta&t=IogivDU2Orknm9R0r8LfWkvxqz0GSuc3NjsvynQ5sq8
 
 
 
