@@ -1,8 +1,3 @@
-https://media.licdn.com/dms/image/v2/D5622AQHXyUSez6fqcQ/feedshare-shrink_800/B56ZWd8SeKGsAg-/0/1742111588494?e=1745452800&v=beta&t=IogivDU2Orknm9R0r8LfWkvxqz0GSuc3NjsvynQ5sq8
-
-
-
-
 ![Image](https://github.com/user-attachments/assets/784cc3a4-3933-4bdb-9721-7dfe724b3e0b)
 <h1 align="center">Hi 😃, I'm Kenneth Leke</h1>
 <h3 align="center">A Passionate Multi-Cloud Infrastructure and DevOps Engineer</h3>
