@@ -1,3 +1,8 @@
+https://www.linkedin.com/posts/rocky-bhatia-a4801010_%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%84-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B2-%F0%9D%97%AE-%F0%9D%97%B0%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%B1-%F0%9D%97%96-activity-7307362610650198016-v7hv?utm_medium=ios_app&rcm=ACoAADtUFkwB7h6iJudMtYk-BcsMAWGqLdWmLB8&utm_source=social_share_send&utm_campaign=copy_link
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/784cc3a4-3933-4bdb-9721-7dfe724b3e0b)
 <h1 align="center">Hi 😃, I'm Kenneth Leke</h1>
 <h3 align="center">A Passionate Multi-Cloud Infrastructure and DevOps Engineer</h3>
